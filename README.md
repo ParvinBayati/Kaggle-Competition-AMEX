@@ -1,1 +1,1 @@
-# Kaggle-Competition-AMEX
+# Machine Learning Projects: Kaggle Competition AMEX
